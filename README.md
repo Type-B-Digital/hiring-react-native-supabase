@@ -72,17 +72,7 @@ Keep the UI clean and minimal. Requirements:
 You should:
 
 - Set up your own Supabase project.
-- Create a `tasks` table with the following schema:
-
-```sql
-id: uuid (Primary Key)
-title: text
-description: text
-is_complete: boolean
-created_at: timestamp
-```
-
-- No RLS rules are necessary for this exercise (you can use service role or enable public access just for testing).
+- No RLS rules are necessary for this exercise.
 
 ---
 
