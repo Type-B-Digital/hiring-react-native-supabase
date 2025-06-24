@@ -23,6 +23,16 @@ Please follow the steps below to complete the task:
 
 ---
 
+## 🧾 PR Template — Mandatory
+
+When you submit your pull request, **please make sure to fill out all sections of the provided PR template**.
+
+> Submissions without a properly completed PR template **will not be considered**.
+
+This helps us understand your thought process and evaluate your work more fairly.
+
+---
+
 ## 🕒 Estimated Time
 
 2–4 hours
