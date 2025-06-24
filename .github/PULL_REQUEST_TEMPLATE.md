@@ -10,9 +10,21 @@ Mention any key implementation details, edge cases, or design decisions.
 
 ---
 
+## 💡 Solution Rationale & User Value
+
+Please take a moment to explain:
+
+- Why you structured the solution the way you did
+- What you were optimizing for (e.g. performance, readability, UX)
+- How this benefits the end user
+
+This helps us understand how you think and make decisions.
+
+---
+
 ## 🎥 Demo Video
 
-Please include a link to a screen recording or Loom video demonstrating the app in action.
+Include a link to a short screen recording (e.g. Loom or MP4) showing the app in use.
 
 > Example:  
 > https://loom.com/share/your-demo-link
@@ -21,7 +33,7 @@ Please include a link to a screen recording or Loom video demonstrating the app 
 
 ## 🛠️ Setup Instructions (if different from README)
 
-Mention any additional setup steps or notes, if applicable.
+Mention any additional setup steps or environment changes, if applicable.
 
 ---
 
@@ -39,5 +51,6 @@ List any known bugs, incomplete features, or assumptions made during implementat
 - [ ] Tasks can be deleted
 - [ ] UI is responsive and functional
 - [ ] Demo video included
+- [ ] Solution rationale & user value explained
 
 ---
